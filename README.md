@@ -12,8 +12,9 @@ Utilize multi-threading for faster and more efficient cracking
 Track time taken to crack a password
 
 **Disclaimer**
-This tool is strictly intended for educational purposes, cybersecurity training, and authorized ethical use.
-Do not use this software on systems or accounts you do not own or have permission to test. Unauthorized use is illegal and unethical.
+
+- This tool is strictly intended for educational purposes, cybersecurity training, and authorized ethical use.
+- Do not use this software on systems or accounts you do not own or have permission to test. Unauthorized use is illegal and unethical.
 
 **Features**
 Brute-force attack on known passwords
