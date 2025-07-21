@@ -28,12 +28,6 @@ Displays time taken for successful password cracks
 
 Beginner-friendly Python code with detailed comments
 
-**Quick Start**
-Clone the repository and run the program:
-
-git clone https://github.com/YOUR_USERNAME/ETHICALPasswordCracker.git
-cd ETHICALPasswordCracker
-python ethical_password_cracker.py
 
 **Example Use Cases**
 Practice and understand brute-force attack methods
