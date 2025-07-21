@@ -9,6 +9,7 @@ Crack unknown passwords by matching hashed values (e.g., SHA-256)
 
 Utilize multi-threading for faster and more efficient cracking
 
+
 Track time taken to crack a password
 
 **Disclaimer**
@@ -17,24 +18,24 @@ Track time taken to crack a password
 - Do not use this software on systems or accounts you do not own or have permission to test. Unauthorized use is illegal and unethical.
 
 **Features**
-Brute-force attack on known passwords
+- Brute-force attack on known passwords
 
-Offline cracking of hashed passwords (SHA-256 supported)
+- Offline cracking of hashed passwords (SHA-256 supported)
 
-Multi-threaded operation for performance
+- Multi-threaded operation for performance
 
-Fully configurable character sets (lowercase, uppercase, digits)
+- Fully configurable character sets (lowercase, uppercase, digits)
 
-Displays time taken for successful password cracks
+- Displays time taken for successful password cracks
 
-Beginner-friendly Python code with detailed comments
+- Beginner-friendly Python code with detailed comments
 
 
 **Example Use Cases**
-Practice and understand brute-force attack methods
+- Practice and understand brute-force attack methods
 
-Test and evaluate password strength
+- Test and evaluate password strength
 
-Educational demonstrations in cybersecurity workshops
+- Educational demonstrations in cybersecurity workshops
 
-Ethical hacking simulations for personal cybersecurity improvement
+- Ethical hacking simulations for personal cybersecurity improvement
